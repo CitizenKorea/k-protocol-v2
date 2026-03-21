@@ -1,13 +1,16 @@
-# K-PROTOCOL: Deterministic Spacetime Calibrator (Vol.3_v3)
+# K-PROTOCOL: Pure Geometric Tensor Engine (Vol.3-2 Restored)
 
-This project provides a deterministic verification of the **K-PROTOCOL** theory, which eliminates the 1.288% geometric illusion present in SI standard physics.
+This repository provides the official, unapproximated implementation of the **K-PROTOCOL** Master Formula for macroscopic metric calibration. It demonstrates the deterministic alignment between absolute topological geometry ($\pi$-Matrix) and empirical atomic clock observations.
 
-## Core Logic
-Based on **Vol.3_v3**, the time dilation is not merely a function of altitude, but a result of local geometric distortion ($S_{loc}$):
-$$S = \frac{\pi^2}{g_{local}}$$
-The absolute time value is restored by removing the artifact $(S^2 - 1)$ from the SI standard calculation.
+## The Paradigm Shift: Pure Tensor Division
+Previous models erroneously applied a Taylor series polynomial approximation $(2 - S^2)$ to calculate geometric residuals. This engine restores the pure geometric tensor division mandated by K-PROTOCOL Vol.3-2 and Vol.10:
+$$S_{loc} = \frac{\pi^2}{g_{loc}}$$
+$$V_{absolute} = \frac{V_{SI}}{S_{loc}^k}$$
+
+By dividing the SI-calculated spacetime potential by the squared local geometric distortion tensor $(S_{avg}^2)$, we perfectly strip away the 1.288% geometric illusion embedded in the SI unit system without any mathematical approximation errors.
 
 ## Results (Tokyo Skytree Experiment)
-- **K-Standard Accuracy**: 99.9999781272%
-- **Observation**: 4.9300e-14
-- **K-Absolute**: 4.9300e-14
+- **SI Standard Prediction**: 4.9833215e-14
+- **K-Absolute (Restored)**: 4.9207945e-14
+- **Real Observation**: 4.9300000e-14
+- **Pure Physical Residual**: ~0.18% (Awaiting $S_{dyn}$ Tidal Force Integration per Vol.10)
