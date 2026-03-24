@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://orcid.org/0009-0004-3627-6997"><img src="https://img.shields.io/badge/ORCID-0009--0004--3627--6997-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://doi.org/10.5281/zenodo.19177554"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.19177554-blue?logo=zenodo&logoColor=white" alt="DOI"></a>
-  <a href="https://k-protocol.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-Live%20Engine-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"></a>
+  <a href="https://k-protocol-v2.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-Live%20Engine-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"></a>
 </p>
 
 ---
